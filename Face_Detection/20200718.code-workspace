@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "FacialRecognition",
+			"path": "..\\FacialRecognition"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
